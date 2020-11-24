@@ -1,6 +1,5 @@
-# www-localstorage
-This is for study purpose on how to save and manipulate the data in localstorage. Futher development will be done by the end of the course.
+# LocalStorage
 
-#link for demo
+Local storage related demo/experiment for class WWW Applications at Aalto University
 
-https://qaiumshah.github.io/www-localstorage/
+Demo site is available at https://qaiumshah.github.io/www-localstorage/
